@@ -12,6 +12,7 @@ function App() {
       <body>
         <div className='Container'>
           <img src={ProfileImg} className="ProfileImg" alt="image" />
+          <p>This is Joseph Hsueh.</p>
         </div>
       </body>
     </div>
