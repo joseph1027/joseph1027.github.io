@@ -11,7 +11,7 @@ function App() {
 
       <body>
         <div className='Container'>
-          <img src={ProfileImg} className="ProfileImg" alt="image" />
+          <img src={ProfileImg} className="ProfileImg"/>
           <p>This is Joseph Hsueh.</p>
         </div>
       </body>
