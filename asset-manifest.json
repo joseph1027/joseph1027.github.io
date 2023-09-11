@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joseph1027.github.io/static/css/main.b6f7b5bb.css",
+    "main.js": "/joseph1027.github.io/static/js/main.922cfed0.js",
+    "static/js/787.67161698.chunk.js": "/joseph1027.github.io/static/js/787.67161698.chunk.js",
+    "static/media/profile_img_1024x1024.jpg": "/joseph1027.github.io/static/media/profile_img_1024x1024.1bb70292ee86c2e5c103.jpg",
+    "index.html": "/joseph1027.github.io/index.html",
+    "main.b6f7b5bb.css.map": "/joseph1027.github.io/static/css/main.b6f7b5bb.css.map",
+    "main.922cfed0.js.map": "/joseph1027.github.io/static/js/main.922cfed0.js.map",
+    "787.67161698.chunk.js.map": "/joseph1027.github.io/static/js/787.67161698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f7b5bb.css",
+    "static/js/main.922cfed0.js"
+  ]
+}
